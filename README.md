@@ -10,3 +10,7 @@ You can run this project by running the following command
 * You can select a rating from dropdown
 * You can select from Sorting Dropdwon (Defauly: Popularity)
 * You can select multiple years (There's isn't any attribute that take array of years selected, so I have fetch data for each year and added that to movies page) Also this is not synced with everything else in filters and sorting
+
+
+### Want to check live site directly?
+[Link to Deployed Site](https://react-movie-app-atabic.netlify.app)
